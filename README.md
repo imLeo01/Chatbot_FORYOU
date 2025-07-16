@@ -61,7 +61,9 @@ node server.js
 🖼️ Giao diện
 <img src="https://your-screenshot-link.com/chatbot-emotion-ui.png" alt="Giao diện chatbot cảm xúc" width="500"/>
 
-📦 Công nghệ sử dụng
+```
+
+### 📦 Công nghệ sử dụng
 💻 Frontend: HTML, TailwindCSS, JavaScript
 
 🌐 Backend: Node.js + Express.js
@@ -69,6 +71,8 @@ node server.js
 🧠 AI: OpenAI GPT-3.5 Turbo
 
 🔐 CORS, Fetch API, FontAwesome
+
+```
 
 📜 Ghi chú
 ⚠️ Ứng dụng này không thay thế cho tư vấn tâm lý chuyên nghiệp. Nếu bạn gặp vấn đề nghiêm trọng, hãy tìm kiếm sự hỗ trợ từ chuyên gia.
