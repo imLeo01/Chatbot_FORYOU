@@ -77,6 +77,8 @@ node server.js
 📜 Ghi chú
 ⚠️ Ứng dụng này không thay thế cho tư vấn tâm lý chuyên nghiệp. Nếu bạn gặp vấn đề nghiêm trọng, hãy tìm kiếm sự hỗ trợ từ chuyên gia.
 
+```
+
 👨‍💻 Tác giả
 👤 Tan Tai – RAP001 – K49 UEH
 👤 Van Nam – RAP001 – K49 UEH
