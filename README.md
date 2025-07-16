@@ -28,6 +28,13 @@
 ```bash
 git clone https://github.com/ten-ban/chatbot-cam-xuc.git
 cd chatbot-cam-xuc
+
+---
+
 ### 2. Cài dependencies
+bash
+npm install
+
+
 ```bash
 
